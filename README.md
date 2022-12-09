@@ -1,2 +1,2 @@
 # diabetes-prediction
-Tujuan dataset Predict Diabetes untuk memprediksi secara diagnostik apakah pasien mempunyai diabetes bedasarkan atribut pengukur yang diberikan.
+Tujuan dataset Predict Diabetes untuk memprediksi secara diagnostik apakah pasien mempunyai diabetes bedasarkan atribut pengukur yang diberikan. Beberapa model yang akan digunakan yaitu *Logistic Regression*, *Random Forest*, dan *Support Vector Machine*. Setelah dilakukan pembuatan model dan diperiksa hasil akurasi metrics (accuracy_score, presicion_score, f1_score, dan auc_score) masing-masing model, didapatkan model **Logistic Regression mendapat nilai akurasi tertinggi sebesar 82%** dan akurasi terendah oleh Random Forest sebesar 78%.
